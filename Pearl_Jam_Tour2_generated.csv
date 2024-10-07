@@ -1,0 +1,1001 @@
+City Population,Continent,Venue Capacity,Day of Week,Multiple Concerts,Sold Out
+221958,North America,28279,Tuesday,No,No
+771155,South America,17765,Thursday,No,Yes
+231932,South America,16561,Thursday,No,Yes
+465838,Australia,46899,Monday,Yes,No
+359178,Europe,5525,Thursday,No,No
+744167,North America,27861,Friday,Yes,No
+210268,Europe,38142,Friday,Yes,Yes
+832180,North America,31916,Sunday,Yes,Yes
+154886,Australia,49965,Monday,Yes,Yes
+237337,Australia,9648,Sunday,No,No
+621430,South America,40133,Sunday,Yes,No
+187498,Europe,35523,Saturday,No,No
+999159,South America,34052,Tuesday,No,No
+275203,Europe,39414,Tuesday,Yes,Yes
+291335,South America,37781,Thursday,No,Yes
+378167,Asia,9599,Thursday,No,Yes
+141090,Asia,40046,Saturday,Yes,Yes
+429365,Asia,40923,Thursday,No,No
+164820,Asia,46089,Tuesday,No,No
+887201,North America,8814,Sunday,No,No
+421879,Asia,40984,Wednesday,No,Yes
+818315,Australia,31616,Friday,Yes,Yes
+427069,Australia,7113,Wednesday,No,No
+876997,North America,48006,Wednesday,No,No
+299041,Asia,18760,Tuesday,No,Yes
+891743,Asia,26927,Wednesday,No,No
+203355,Asia,25939,Saturday,Yes,Yes
+335796,South America,37419,Monday,No,Yes
+314176,Europe,17588,Thursday,Yes,Yes
+284779,South America,41142,Monday,No,No
+447449,Europe,44198,Sunday,Yes,No
+521909,Asia,49738,Friday,Yes,Yes
+358795,Asia,38397,Thursday,Yes,No
+586232,South America,21653,Wednesday,Yes,Yes
+600186,South America,15831,Friday,Yes,Yes
+256730,Europe,10724,Thursday,No,Yes
+970910,Australia,16083,Saturday,No,Yes
+484681,Europe,24816,Saturday,No,No
+249503,South America,47240,Saturday,Yes,Yes
+754811,South America,11276,Saturday,No,Yes
+627035,North America,43663,Wednesday,Yes,No
+748143,South America,18994,Monday,Yes,Yes
+552366,North America,28499,Thursday,No,Yes
+165725,Australia,28040,Wednesday,No,No
+229981,Europe,48320,Saturday,Yes,No
+184654,Europe,21959,Sunday,Yes,No
+691723,North America,11099,Monday,No,Yes
+419030,Europe,47267,Sunday,No,No
+428947,South America,24576,Friday,No,No
+655839,Asia,40946,Sunday,No,Yes
+373538,North America,11116,Friday,Yes,Yes
+431236,Europe,20563,Friday,No,Yes
+628178,North America,31788,Saturday,No,Yes
+665894,North America,31928,Friday,No,Yes
+589492,Asia,41336,Tuesday,Yes,No
+356840,South America,14847,Thursday,Yes,No
+573254,North America,31155,Thursday,Yes,No
+449457,Europe,19135,Saturday,Yes,Yes
+765987,Australia,22774,Tuesday,No,Yes
+370936,North America,6742,Sunday,Yes,Yes
+339931,North America,23309,Wednesday,No,No
+339629,Asia,5619,Sunday,No,No
+305041,South America,22658,Wednesday,No,Yes
+798361,Australia,39707,Friday,No,No
+831912,Europe,25337,Monday,Yes,Yes
+517113,Australia,21001,Wednesday,Yes,No
+168148,Europe,5968,Monday,Yes,No
+877089,South America,30892,Thursday,No,No
+748531,Europe,30619,Monday,No,Yes
+351995,Asia,5281,Thursday,No,No
+778843,Asia,32420,Tuesday,No,No
+672843,Asia,20360,Tuesday,No,Yes
+356508,Asia,44030,Saturday,Yes,No
+903591,Australia,6058,Saturday,No,Yes
+996942,South America,25677,Friday,Yes,Yes
+206530,Europe,15724,Wednesday,No,Yes
+704365,Europe,33404,Friday,No,Yes
+922352,Asia,42946,Thursday,Yes,Yes
+560337,Asia,44748,Friday,Yes,No
+824839,North America,34856,Monday,No,Yes
+905889,South America,14200,Thursday,No,Yes
+559773,Australia,38997,Saturday,No,Yes
+308261,Europe,30611,Tuesday,No,Yes
+864469,North America,46235,Saturday,Yes,No
+441097,North America,40057,Wednesday,No,Yes
+415139,Europe,6239,Thursday,Yes,No
+271829,Australia,43138,Thursday,No,Yes
+371836,North America,5125,Monday,Yes,No
+538974,North America,28857,Wednesday,Yes,Yes
+302283,South America,20398,Tuesday,No,Yes
+296769,Australia,11638,Sunday,Yes,No
+661353,North America,11570,Thursday,No,Yes
+323165,Australia,8249,Thursday,Yes,No
+723587,Europe,14110,Monday,No,Yes
+635822,Asia,45363,Friday,Yes,No
+587879,North America,18605,Tuesday,No,Yes
+664685,South America,17115,Saturday,No,Yes
+882038,Europe,44062,Wednesday,Yes,No
+453531,Australia,27911,Thursday,Yes,Yes
+363160,Europe,43525,Thursday,Yes,Yes
+679879,North America,37556,Saturday,Yes,Yes
+320884,Australia,17595,Tuesday,No,Yes
+123247,Asia,6969,Friday,Yes,Yes
+124300,Europe,48753,Thursday,No,Yes
+567281,North America,22275,Tuesday,Yes,No
+707086,South America,9470,Saturday,No,No
+633556,Australia,15225,Monday,No,No
+448951,Europe,47324,Friday,No,Yes
+374329,Europe,46974,Wednesday,No,No
+819064,Asia,47759,Thursday,Yes,Yes
+842139,Asia,28196,Tuesday,Yes,Yes
+532315,South America,45287,Monday,No,Yes
+616588,South America,18669,Wednesday,Yes,Yes
+336584,North America,42380,Sunday,Yes,No
+662332,North America,43006,Tuesday,No,Yes
+937646,South America,20577,Tuesday,Yes,No
+476896,South America,27473,Wednesday,Yes,Yes
+148984,Australia,33625,Monday,Yes,No
+402918,Asia,20504,Sunday,No,No
+364712,North America,29089,Saturday,Yes,No
+220151,Asia,41487,Monday,No,No
+555808,Asia,5302,Friday,Yes,No
+233767,South America,36463,Thursday,Yes,No
+748663,Australia,49912,Wednesday,Yes,Yes
+803550,Europe,34259,Saturday,No,No
+236330,Australia,47823,Sunday,No,Yes
+580754,Australia,42208,Wednesday,Yes,No
+401648,Asia,35659,Wednesday,No,Yes
+788519,Australia,40840,Monday,Yes,No
+113986,North America,36890,Thursday,No,No
+686146,Asia,18598,Friday,No,Yes
+229312,North America,24508,Tuesday,Yes,No
+112666,Europe,47287,Tuesday,Yes,No
+400804,Asia,18380,Wednesday,Yes,No
+234633,Europe,31984,Thursday,Yes,Yes
+388998,Asia,49633,Sunday,No,No
+950937,South America,13125,Sunday,No,Yes
+728776,Australia,41059,Saturday,No,No
+807611,South America,9033,Monday,Yes,No
+384806,Europe,42873,Thursday,Yes,Yes
+894824,Australia,22087,Thursday,No,No
+130535,Asia,45901,Monday,Yes,No
+475713,Australia,10704,Sunday,No,Yes
+938688,North America,12848,Sunday,No,No
+451279,Australia,26592,Sunday,No,Yes
+921654,North America,11924,Wednesday,No,Yes
+701661,Australia,32208,Thursday,No,Yes
+747972,North America,24614,Tuesday,Yes,No
+589570,Europe,5488,Monday,Yes,Yes
+556551,South America,44882,Sunday,Yes,Yes
+373109,Asia,30923,Saturday,No,No
+124538,Australia,40941,Sunday,No,Yes
+994498,South America,34165,Sunday,No,No
+301664,Asia,6667,Friday,No,No
+591234,Asia,31213,Wednesday,Yes,No
+999684,North America,9114,Monday,Yes,No
+239182,Europe,41321,Friday,No,Yes
+572525,Europe,12761,Friday,No,Yes
+258338,South America,36116,Saturday,No,Yes
+284064,Europe,38768,Thursday,Yes,Yes
+314020,Australia,30426,Saturday,Yes,Yes
+723094,Europe,22772,Thursday,Yes,No
+997421,South America,43218,Thursday,No,Yes
+715270,Europe,8712,Monday,No,Yes
+745914,Australia,6367,Sunday,Yes,Yes
+219176,North America,45957,Monday,No,No
+318126,South America,46781,Wednesday,Yes,No
+318969,North America,31200,Thursday,No,Yes
+222409,North America,8726,Friday,Yes,No
+647707,North America,28616,Sunday,No,Yes
+353618,Asia,32723,Tuesday,Yes,Yes
+869598,Asia,42574,Wednesday,Yes,No
+150015,North America,39958,Monday,Yes,No
+872838,South America,14108,Saturday,Yes,Yes
+222096,Australia,17178,Wednesday,Yes,Yes
+731347,Australia,40643,Wednesday,Yes,No
+285340,Europe,36324,Sunday,No,Yes
+210687,South America,43360,Wednesday,No,No
+974371,Asia,22824,Wednesday,No,Yes
+511357,North America,13927,Tuesday,Yes,No
+835716,Europe,33144,Saturday,Yes,Yes
+205878,Australia,36010,Saturday,No,Yes
+827270,Asia,27443,Saturday,Yes,No
+298286,Asia,19437,Thursday,Yes,Yes
+873290,North America,49298,Friday,Yes,Yes
+874684,Australia,44778,Saturday,Yes,No
+264899,South America,16207,Wednesday,Yes,Yes
+424767,Asia,30537,Wednesday,No,Yes
+961882,North America,40757,Saturday,No,Yes
+979858,South America,17040,Sunday,No,No
+479989,Australia,46986,Saturday,No,No
+515515,Asia,27612,Wednesday,No,No
+143585,South America,33441,Thursday,Yes,Yes
+471369,South America,11471,Monday,Yes,Yes
+164044,South America,40631,Monday,Yes,Yes
+542296,Asia,48461,Saturday,Yes,Yes
+209556,Asia,31523,Tuesday,No,No
+626981,Europe,36348,Saturday,No,Yes
+981691,Australia,6177,Sunday,No,Yes
+867595,North America,9760,Saturday,Yes,Yes
+300235,South America,37779,Monday,No,No
+125939,Europe,26636,Wednesday,Yes,Yes
+252906,North America,21353,Saturday,No,Yes
+642335,Europe,16556,Wednesday,No,Yes
+388249,Asia,32598,Wednesday,Yes,Yes
+175766,South America,16563,Tuesday,Yes,Yes
+508923,North America,48790,Wednesday,No,No
+515192,North America,13234,Monday,No,Yes
+668550,North America,30519,Thursday,Yes,Yes
+487261,North America,31966,Thursday,No,Yes
+910208,North America,21173,Friday,No,Yes
+785440,Europe,31987,Sunday,Yes,Yes
+752664,South America,18178,Saturday,No,Yes
+554589,Asia,44338,Sunday,Yes,Yes
+237848,Asia,29596,Monday,No,Yes
+717075,Asia,38174,Wednesday,Yes,Yes
+227948,Asia,46974,Thursday,No,Yes
+679304,Europe,9431,Sunday,Yes,No
+502690,Australia,32764,Monday,No,No
+599046,South America,26627,Thursday,Yes,No
+551269,North America,44310,Wednesday,No,No
+121959,Australia,13906,Sunday,No,Yes
+760890,Asia,41914,Thursday,No,No
+850216,Australia,49814,Saturday,No,No
+890180,South America,18076,Saturday,No,Yes
+328576,North America,42650,Friday,No,No
+637833,North America,11012,Friday,No,No
+265838,South America,12151,Thursday,No,Yes
+435674,South America,33211,Monday,No,Yes
+979989,Asia,32117,Saturday,Yes,Yes
+161087,North America,41378,Monday,Yes,No
+693128,Australia,47652,Monday,No,No
+218451,Europe,11894,Thursday,Yes,Yes
+547600,Europe,18467,Monday,No,Yes
+937437,South America,36010,Saturday,No,No
+539792,Asia,47641,Wednesday,Yes,Yes
+139353,Europe,17289,Friday,No,No
+293075,North America,49976,Wednesday,No,Yes
+314283,South America,48596,Monday,Yes,Yes
+414877,Australia,28171,Wednesday,Yes,No
+165318,South America,39905,Saturday,No,Yes
+865313,Australia,25829,Saturday,Yes,Yes
+582690,South America,39054,Monday,Yes,Yes
+516880,South America,49139,Thursday,No,No
+691460,South America,34734,Wednesday,Yes,Yes
+840976,Australia,12052,Thursday,Yes,Yes
+881239,Australia,8654,Thursday,No,Yes
+193264,South America,28486,Tuesday,Yes,Yes
+870746,Europe,23743,Monday,Yes,Yes
+913168,Asia,29489,Friday,No,Yes
+325281,Asia,13636,Saturday,No,No
+737147,Asia,11441,Saturday,No,No
+998613,Australia,29611,Monday,Yes,Yes
+494070,Australia,47435,Sunday,No,No
+452228,Europe,17149,Sunday,No,No
+531839,Asia,39566,Sunday,Yes,Yes
+369536,Asia,47368,Friday,No,No
+417824,South America,26675,Saturday,No,No
+357426,Australia,10495,Monday,No,No
+277789,Asia,47668,Saturday,No,No
+613153,Europe,18673,Thursday,Yes,No
+842452,Europe,16130,Wednesday,No,No
+937291,Asia,27668,Wednesday,No,No
+225657,Australia,20222,Saturday,Yes,No
+335167,Europe,28669,Tuesday,No,Yes
+781669,South America,39068,Friday,Yes,Yes
+580671,Europe,28253,Sunday,Yes,No
+819094,North America,14435,Friday,Yes,No
+170467,North America,33552,Friday,No,Yes
+283734,Australia,42384,Thursday,Yes,No
+722794,Asia,21393,Friday,Yes,No
+209751,Australia,15617,Wednesday,Yes,Yes
+481050,Australia,43520,Thursday,No,Yes
+911774,Australia,14852,Monday,No,Yes
+792517,Australia,36401,Friday,No,No
+561079,South America,11295,Friday,No,No
+468452,South America,40993,Monday,No,Yes
+206081,Europe,39084,Friday,No,Yes
+713333,North America,44575,Monday,No,No
+658986,Australia,41451,Thursday,Yes,Yes
+210078,Europe,12227,Wednesday,Yes,No
+967055,North America,36910,Monday,Yes,No
+122671,Asia,41041,Tuesday,Yes,Yes
+518400,South America,28384,Monday,No,Yes
+455528,North America,5145,Friday,Yes,No
+710490,Asia,42778,Sunday,Yes,Yes
+151663,North America,21035,Sunday,Yes,Yes
+115708,South America,8040,Thursday,Yes,Yes
+978338,South America,47422,Saturday,No,Yes
+411955,Europe,31160,Thursday,No,No
+233883,Australia,22633,Saturday,No,No
+418394,North America,34344,Sunday,Yes,No
+212547,North America,22014,Sunday,No,No
+659042,Asia,19996,Monday,Yes,Yes
+851102,South America,46621,Wednesday,No,Yes
+862002,North America,16695,Tuesday,No,No
+242483,South America,7852,Thursday,No,No
+758271,North America,21014,Friday,No,Yes
+314835,Europe,32042,Saturday,No,No
+501896,Australia,38755,Friday,Yes,No
+184896,North America,45390,Wednesday,No,Yes
+577095,South America,28711,Saturday,Yes,No
+171295,Europe,31122,Thursday,Yes,Yes
+843974,North America,14160,Monday,Yes,Yes
+987121,Asia,32213,Friday,Yes,No
+373255,Australia,44420,Wednesday,Yes,Yes
+399648,North America,12421,Thursday,No,No
+757162,Europe,26400,Sunday,No,Yes
+108155,Asia,38537,Sunday,No,No
+566872,Europe,22727,Thursday,No,No
+925816,Europe,9358,Thursday,Yes,No
+474705,Asia,33482,Thursday,No,Yes
+671542,Europe,37117,Saturday,No,Yes
+908350,Asia,28164,Thursday,Yes,No
+710269,North America,36910,Friday,Yes,Yes
+654594,Asia,37496,Wednesday,No,No
+247718,Asia,49311,Saturday,No,No
+408987,Australia,34371,Thursday,Yes,Yes
+745263,Asia,43467,Tuesday,No,No
+458745,Asia,22625,Tuesday,No,Yes
+207512,North America,38893,Wednesday,No,No
+247443,Australia,15793,Sunday,No,Yes
+570587,South America,36007,Monday,Yes,No
+473616,North America,30766,Monday,Yes,No
+757409,North America,44532,Sunday,Yes,Yes
+786976,South America,17323,Saturday,No,No
+465871,Asia,12843,Saturday,No,No
+475037,Europe,19210,Saturday,No,Yes
+907364,Australia,21456,Monday,No,No
+217796,Europe,36367,Tuesday,No,Yes
+391999,South America,15106,Monday,Yes,No
+292506,North America,42957,Friday,No,Yes
+798376,North America,7472,Thursday,No,No
+369544,Australia,11704,Saturday,Yes,No
+480002,North America,8713,Tuesday,No,No
+798002,North America,10051,Wednesday,Yes,Yes
+639439,Australia,15756,Wednesday,Yes,Yes
+690978,Australia,7475,Thursday,Yes,Yes
+628787,South America,41378,Tuesday,Yes,Yes
+630583,North America,9255,Monday,Yes,No
+488215,North America,19484,Monday,No,No
+421184,South America,39503,Friday,Yes,Yes
+898615,Asia,13258,Friday,Yes,Yes
+522515,Asia,45747,Monday,No,Yes
+768234,Asia,40196,Wednesday,No,No
+478480,South America,45194,Saturday,Yes,Yes
+132711,North America,13533,Wednesday,No,Yes
+891971,South America,37581,Friday,No,No
+601157,South America,10249,Thursday,Yes,No
+284423,Asia,24201,Monday,Yes,Yes
+616349,Europe,14686,Friday,No,No
+803714,North America,37007,Friday,Yes,Yes
+757917,Asia,5661,Saturday,Yes,No
+924792,Europe,49843,Monday,No,Yes
+837378,Europe,35137,Saturday,Yes,Yes
+233272,Australia,47828,Monday,Yes,Yes
+867836,North America,15526,Saturday,Yes,Yes
+802335,Europe,8374,Wednesday,Yes,No
+907789,Asia,30592,Thursday,Yes,No
+743409,Australia,33982,Thursday,No,No
+177505,North America,5207,Monday,No,No
+102869,South America,40433,Tuesday,Yes,Yes
+881474,Asia,28197,Sunday,No,Yes
+554351,Europe,38400,Friday,Yes,No
+412252,Europe,8083,Friday,Yes,No
+736584,Asia,34328,Monday,Yes,No
+718467,Europe,47891,Saturday,Yes,No
+190272,Australia,25103,Tuesday,Yes,No
+138467,North America,44891,Wednesday,No,Yes
+909760,Australia,15754,Saturday,No,Yes
+977844,Europe,39447,Saturday,Yes,Yes
+580047,South America,20901,Monday,No,No
+759347,North America,38004,Monday,Yes,No
+158871,North America,12446,Friday,No,No
+228391,Asia,42211,Monday,Yes,No
+539430,Asia,34301,Monday,No,Yes
+710704,South America,31116,Monday,Yes,Yes
+956703,North America,46323,Friday,Yes,No
+930496,South America,23752,Wednesday,No,Yes
+356687,Asia,37376,Wednesday,No,Yes
+825451,Asia,21669,Sunday,Yes,No
+207450,North America,37916,Sunday,No,No
+271890,Australia,18395,Monday,Yes,No
+538741,Europe,25421,Sunday,No,No
+381974,Asia,31342,Friday,No,No
+500109,Asia,9895,Wednesday,Yes,No
+216381,Australia,16023,Saturday,No,Yes
+573125,Australia,15699,Wednesday,No,Yes
+671621,South America,14715,Wednesday,Yes,No
+234508,South America,24169,Friday,No,Yes
+829650,Europe,21163,Sunday,Yes,No
+962645,Europe,10782,Saturday,Yes,No
+499111,North America,27641,Friday,Yes,No
+250810,South America,23792,Monday,Yes,No
+392890,Asia,40585,Thursday,Yes,Yes
+673665,South America,35682,Wednesday,No,No
+940477,Asia,23880,Thursday,Yes,Yes
+460032,Australia,43067,Friday,Yes,No
+469599,South America,47685,Friday,No,No
+760960,Australia,23073,Friday,No,No
+850020,Europe,41035,Thursday,No,Yes
+979611,Europe,42174,Friday,Yes,No
+271836,North America,29837,Monday,Yes,No
+829903,South America,22826,Friday,Yes,No
+145714,Australia,29981,Tuesday,No,Yes
+727234,Asia,15382,Sunday,Yes,Yes
+996048,Europe,9437,Thursday,No,Yes
+730271,Europe,10435,Tuesday,Yes,No
+566960,Asia,29819,Friday,No,Yes
+811851,Australia,41875,Monday,Yes,No
+224123,Australia,36982,Wednesday,Yes,Yes
+405628,South America,38328,Saturday,Yes,Yes
+182989,South America,17329,Sunday,No,No
+398356,North America,30169,Saturday,No,Yes
+929957,Europe,26932,Friday,Yes,No
+278274,South America,39594,Sunday,Yes,No
+787995,Australia,16421,Sunday,Yes,Yes
+425352,Asia,12629,Monday,No,No
+920260,Australia,13325,Sunday,Yes,No
+511927,Europe,33495,Thursday,Yes,Yes
+889852,Australia,36750,Tuesday,Yes,Yes
+983184,North America,34619,Tuesday,Yes,No
+231373,Europe,45461,Tuesday,No,Yes
+538452,Asia,13264,Thursday,No,No
+215294,North America,17686,Saturday,Yes,No
+559451,Europe,29226,Monday,Yes,Yes
+748307,Asia,11721,Sunday,No,Yes
+165726,North America,25609,Thursday,No,Yes
+241564,North America,12373,Tuesday,Yes,Yes
+477812,Europe,43675,Friday,No,No
+368246,South America,33937,Wednesday,No,No
+805696,North America,10656,Sunday,Yes,Yes
+218015,North America,13984,Thursday,No,Yes
+840674,Asia,34984,Thursday,No,No
+354079,Australia,13286,Monday,Yes,No
+650929,Europe,10901,Monday,Yes,No
+789944,Europe,36552,Thursday,No,No
+788105,South America,30709,Tuesday,Yes,Yes
+613758,South America,36055,Wednesday,No,No
+465890,Europe,42685,Sunday,Yes,No
+545101,South America,13429,Monday,No,Yes
+136631,Asia,19716,Sunday,Yes,No
+866577,Europe,16138,Tuesday,No,No
+172991,South America,40298,Sunday,No,Yes
+104014,Europe,28429,Friday,No,Yes
+373237,Australia,10772,Monday,Yes,Yes
+118070,North America,40732,Tuesday,Yes,No
+922209,Europe,44905,Tuesday,No,No
+156958,North America,22347,Wednesday,No,Yes
+182074,South America,21920,Wednesday,Yes,Yes
+635017,North America,36822,Friday,Yes,No
+855073,Europe,45108,Tuesday,Yes,Yes
+276089,Australia,28563,Saturday,Yes,Yes
+297392,South America,12967,Tuesday,Yes,Yes
+258823,Europe,16871,Wednesday,Yes,No
+730152,South America,33763,Saturday,No,No
+493002,Asia,16916,Monday,Yes,No
+833429,North America,13734,Monday,No,No
+598863,Asia,38613,Sunday,Yes,No
+467654,Europe,33179,Thursday,Yes,No
+679036,Australia,40262,Wednesday,No,Yes
+630089,South America,17677,Thursday,No,No
+250262,North America,23268,Saturday,Yes,No
+542905,South America,17330,Wednesday,No,Yes
+335362,Europe,25733,Friday,No,No
+544209,South America,42947,Tuesday,No,No
+653880,North America,32286,Friday,No,Yes
+897079,Europe,11610,Saturday,Yes,Yes
+764076,South America,11430,Wednesday,No,Yes
+319963,Australia,44922,Saturday,Yes,No
+580761,Europe,18828,Tuesday,Yes,Yes
+348710,Europe,47913,Monday,Yes,No
+320984,Australia,36497,Monday,Yes,No
+997059,Asia,44256,Saturday,No,No
+956748,North America,41618,Thursday,No,No
+882355,Asia,31526,Wednesday,Yes,Yes
+364512,South America,35158,Wednesday,Yes,Yes
+701863,Australia,30032,Monday,Yes,No
+368799,Asia,42846,Sunday,Yes,Yes
+337549,Europe,49936,Friday,No,No
+694319,South America,34794,Sunday,Yes,No
+584299,South America,10448,Tuesday,No,No
+712210,Asia,33861,Friday,Yes,Yes
+548982,Asia,33141,Friday,Yes,No
+224046,Australia,14074,Saturday,Yes,No
+506619,North America,11406,Monday,Yes,Yes
+132097,Asia,36823,Sunday,No,Yes
+766326,Asia,28291,Sunday,No,Yes
+749150,Europe,46568,Monday,No,Yes
+330229,South America,37003,Sunday,Yes,No
+218834,North America,39406,Monday,Yes,Yes
+193848,Europe,28312,Saturday,No,No
+152921,Australia,48108,Thursday,No,Yes
+805086,Australia,6382,Friday,Yes,Yes
+750429,Asia,39171,Saturday,Yes,Yes
+805660,Asia,46779,Wednesday,No,Yes
+384821,Australia,8292,Tuesday,Yes,Yes
+155609,Asia,46779,Thursday,Yes,Yes
+327897,North America,38187,Wednesday,No,No
+131024,Asia,17411,Friday,Yes,Yes
+170313,South America,42285,Sunday,No,Yes
+489957,Asia,20422,Monday,Yes,Yes
+284078,Europe,47468,Friday,No,Yes
+457429,North America,37371,Saturday,Yes,No
+561243,Europe,10693,Tuesday,No,Yes
+213632,Europe,38535,Saturday,No,Yes
+351451,South America,19818,Thursday,No,Yes
+103051,North America,36238,Thursday,No,Yes
+804107,North America,35874,Tuesday,Yes,No
+476836,North America,31715,Wednesday,Yes,Yes
+711523,North America,32605,Wednesday,No,No
+821772,North America,39317,Thursday,Yes,Yes
+289407,South America,36174,Thursday,Yes,No
+549395,Asia,14956,Sunday,Yes,No
+562894,Europe,43908,Monday,Yes,Yes
+311810,North America,15837,Sunday,Yes,Yes
+827975,Asia,8716,Sunday,No,No
+173523,Asia,9481,Wednesday,No,No
+860463,Europe,29282,Tuesday,No,Yes
+194476,South America,11548,Wednesday,No,No
+333841,Australia,42605,Monday,Yes,No
+903451,Australia,12758,Saturday,Yes,No
+970045,Asia,48668,Thursday,No,Yes
+322866,Europe,28177,Thursday,Yes,No
+186672,Australia,29022,Monday,Yes,No
+698135,Asia,45761,Sunday,No,No
+444894,South America,10542,Tuesday,Yes,Yes
+834994,Australia,30476,Thursday,No,Yes
+128251,Asia,35784,Friday,No,No
+727769,Asia,27740,Sunday,Yes,Yes
+474710,North America,29817,Thursday,Yes,No
+650233,South America,21052,Friday,No,Yes
+977284,North America,40153,Monday,No,Yes
+132217,Europe,5671,Monday,Yes,No
+108308,North America,5163,Sunday,No,Yes
+368093,North America,46424,Thursday,No,Yes
+283062,Australia,49002,Wednesday,No,Yes
+494366,Asia,9795,Friday,Yes,No
+844840,South America,15634,Tuesday,No,Yes
+200235,North America,9798,Thursday,Yes,Yes
+174740,South America,27420,Tuesday,No,No
+478496,North America,34300,Thursday,Yes,Yes
+953049,Europe,29345,Wednesday,No,Yes
+850201,North America,15749,Wednesday,Yes,Yes
+903328,Australia,43595,Sunday,Yes,Yes
+277247,Asia,30121,Sunday,Yes,Yes
+763165,Europe,42487,Wednesday,No,No
+629525,North America,33411,Saturday,No,No
+120056,South America,38361,Wednesday,No,Yes
+276615,Europe,26223,Monday,Yes,Yes
+287628,Europe,12394,Monday,No,Yes
+738836,North America,19056,Saturday,Yes,No
+473632,Europe,33380,Friday,No,No
+234415,South America,31035,Tuesday,Yes,Yes
+506716,Europe,35620,Thursday,Yes,Yes
+546438,South America,24877,Thursday,Yes,No
+653663,North America,48404,Saturday,No,Yes
+765022,Asia,35911,Monday,No,No
+641252,Europe,37784,Sunday,No,No
+737717,Asia,8191,Thursday,Yes,Yes
+352764,South America,38160,Monday,Yes,No
+814998,Europe,30000,Friday,No,Yes
+566882,Australia,44040,Tuesday,No,Yes
+840427,Asia,8631,Friday,No,Yes
+612153,Europe,11172,Saturday,Yes,Yes
+167215,Asia,47080,Wednesday,Yes,Yes
+955474,Europe,28561,Wednesday,Yes,Yes
+244356,North America,29817,Wednesday,Yes,No
+303861,Asia,25281,Friday,Yes,No
+455612,Australia,33671,Thursday,No,No
+554605,Australia,30364,Tuesday,Yes,No
+109435,South America,46674,Wednesday,Yes,Yes
+547556,Europe,32425,Saturday,Yes,No
+799438,Asia,33602,Saturday,Yes,No
+965264,South America,28253,Wednesday,Yes,No
+675581,Asia,28472,Wednesday,No,Yes
+178781,Europe,13080,Tuesday,Yes,No
+291475,Australia,12099,Wednesday,Yes,Yes
+260196,North America,30431,Tuesday,Yes,No
+326507,Australia,36186,Saturday,No,Yes
+406063,South America,35111,Wednesday,No,Yes
+864121,North America,44851,Friday,No,No
+876665,South America,27614,Sunday,Yes,Yes
+790607,Europe,31724,Friday,No,Yes
+221172,North America,46991,Saturday,Yes,No
+456902,South America,9940,Tuesday,Yes,No
+584963,Europe,33758,Friday,No,No
+555968,Australia,41224,Tuesday,Yes,Yes
+418717,Europe,12788,Friday,Yes,Yes
+159101,Asia,33082,Friday,Yes,Yes
+595972,Europe,29034,Tuesday,No,No
+388790,Europe,40479,Thursday,Yes,Yes
+990617,Asia,16280,Friday,Yes,Yes
+647337,South America,23052,Wednesday,No,Yes
+834965,South America,21531,Sunday,Yes,Yes
+460260,Europe,27804,Saturday,Yes,Yes
+983811,Asia,33903,Thursday,No,Yes
+692673,Asia,49857,Tuesday,Yes,Yes
+750419,Australia,15142,Thursday,Yes,No
+533374,South America,14866,Monday,Yes,No
+820777,North America,9531,Monday,Yes,No
+647577,South America,43098,Friday,Yes,Yes
+472370,South America,43278,Friday,No,Yes
+987225,Australia,33138,Wednesday,No,No
+371967,North America,32065,Sunday,No,Yes
+291232,Australia,34956,Saturday,No,No
+404119,North America,46732,Thursday,Yes,Yes
+109540,Europe,44261,Monday,Yes,Yes
+640652,North America,15759,Friday,Yes,No
+497827,Australia,10439,Saturday,Yes,No
+651951,South America,47533,Thursday,Yes,No
+151991,North America,33270,Friday,No,No
+288751,North America,18279,Friday,No,No
+466326,Asia,44279,Monday,Yes,Yes
+786337,South America,49251,Monday,Yes,Yes
+718992,Europe,28888,Friday,Yes,Yes
+149115,Australia,22630,Tuesday,No,No
+453151,Europe,40144,Friday,Yes,No
+843583,South America,36182,Saturday,Yes,No
+291962,North America,30538,Friday,Yes,No
+821747,North America,16824,Wednesday,No,No
+249143,South America,37125,Sunday,Yes,No
+814635,North America,11979,Wednesday,No,Yes
+636226,North America,31189,Wednesday,No,Yes
+453824,North America,47600,Tuesday,No,Yes
+104000,Australia,17504,Tuesday,No,Yes
+825948,Australia,25669,Friday,No,Yes
+987474,Asia,11910,Wednesday,No,No
+455754,Europe,39964,Tuesday,Yes,No
+351492,South America,25131,Monday,Yes,No
+990123,South America,30227,Friday,Yes,No
+599522,South America,10978,Saturday,No,No
+591072,Asia,26991,Sunday,Yes,No
+138304,Australia,22153,Thursday,No,Yes
+604999,Asia,38548,Friday,No,No
+431593,South America,47676,Thursday,No,No
+707274,Europe,44071,Wednesday,Yes,No
+251836,North America,8983,Sunday,No,No
+208940,Australia,14503,Thursday,No,Yes
+924926,Australia,34921,Wednesday,Yes,Yes
+365517,Asia,21905,Monday,Yes,No
+767521,Australia,28953,Thursday,No,Yes
+721820,South America,31806,Sunday,No,Yes
+979090,South America,27168,Friday,Yes,No
+485777,Asia,9583,Wednesday,Yes,No
+724674,South America,43714,Friday,Yes,No
+651638,Europe,44896,Sunday,No,No
+717296,Asia,16889,Tuesday,Yes,No
+980729,Europe,32413,Wednesday,Yes,Yes
+649639,North America,17275,Thursday,Yes,No
+712956,Europe,7461,Wednesday,No,No
+738873,North America,19291,Friday,Yes,No
+437497,North America,16435,Monday,Yes,Yes
+307869,Europe,32935,Wednesday,Yes,No
+165953,Asia,38453,Thursday,Yes,No
+943890,South America,23544,Tuesday,Yes,No
+600328,South America,17258,Saturday,No,Yes
+906790,North America,35841,Monday,No,No
+103267,North America,15736,Tuesday,No,No
+182745,Asia,42643,Wednesday,Yes,No
+976020,Australia,48950,Friday,No,Yes
+924945,Europe,39964,Sunday,No,No
+257164,North America,33044,Friday,No,No
+635626,South America,44933,Thursday,Yes,No
+231484,Asia,20997,Friday,Yes,Yes
+631831,Europe,19215,Monday,No,No
+992323,Asia,38069,Friday,No,No
+160692,Europe,28911,Thursday,Yes,No
+320156,Europe,22030,Saturday,Yes,Yes
+323992,North America,34334,Wednesday,No,Yes
+616771,Asia,19571,Sunday,Yes,No
+930857,Asia,47719,Wednesday,No,Yes
+663044,South America,33927,Friday,Yes,Yes
+643176,South America,25714,Tuesday,No,Yes
+791095,North America,48541,Wednesday,No,No
+933727,North America,28387,Saturday,Yes,No
+214352,Australia,33444,Friday,No,Yes
+969474,South America,24921,Sunday,No,Yes
+185999,Europe,18057,Thursday,No,Yes
+117955,Asia,29858,Saturday,Yes,No
+924273,North America,49638,Friday,Yes,No
+170640,Asia,31062,Saturday,Yes,Yes
+296582,Asia,41850,Wednesday,No,Yes
+844086,Australia,25567,Sunday,Yes,Yes
+500573,South America,34739,Thursday,No,Yes
+525695,North America,48285,Friday,No,No
+161476,Asia,8754,Monday,Yes,Yes
+406955,North America,32044,Thursday,Yes,No
+267280,Europe,6724,Monday,No,Yes
+775510,Australia,6376,Saturday,No,Yes
+695468,Europe,13706,Tuesday,Yes,Yes
+798646,North America,13894,Thursday,Yes,Yes
+737144,North America,23037,Saturday,Yes,Yes
+954882,South America,23450,Monday,No,No
+514568,Asia,21406,Wednesday,No,Yes
+286141,Asia,34725,Wednesday,No,Yes
+998320,Europe,10926,Tuesday,No,Yes
+734736,Australia,44019,Thursday,No,No
+638685,Asia,14496,Thursday,Yes,No
+278031,South America,41068,Thursday,Yes,No
+219180,Europe,34806,Saturday,No,No
+166234,Europe,27663,Sunday,No,Yes
+664242,South America,46321,Sunday,Yes,Yes
+278352,Australia,41495,Tuesday,Yes,Yes
+179459,South America,27656,Thursday,Yes,No
+509995,Australia,30860,Saturday,Yes,Yes
+295004,South America,21832,Wednesday,No,Yes
+566152,South America,43787,Monday,Yes,No
+825256,North America,26727,Saturday,No,No
+159163,Europe,47815,Sunday,Yes,No
+575853,South America,34545,Sunday,Yes,Yes
+151934,South America,49522,Wednesday,Yes,Yes
+820255,Asia,7520,Wednesday,No,No
+525523,Europe,8081,Monday,No,Yes
+940530,Asia,39196,Wednesday,Yes,No
+554137,Europe,41735,Tuesday,No,No
+105486,Asia,44213,Monday,No,Yes
+239407,South America,19566,Wednesday,Yes,No
+973332,South America,19042,Friday,Yes,No
+750308,North America,30498,Saturday,No,No
+727083,Asia,16329,Wednesday,No,Yes
+320184,Australia,36656,Tuesday,No,No
+766490,North America,7159,Thursday,Yes,No
+449652,Asia,42900,Wednesday,Yes,No
+861315,Asia,24363,Sunday,No,No
+742612,North America,48241,Sunday,Yes,No
+422710,South America,24033,Sunday,Yes,No
+297775,Asia,15805,Thursday,No,No
+389336,South America,40851,Sunday,No,Yes
+887494,North America,31832,Friday,Yes,Yes
+708364,South America,18944,Wednesday,Yes,No
+189780,Europe,24873,Sunday,No,Yes
+252617,Australia,45372,Monday,Yes,Yes
+645977,Asia,28928,Thursday,Yes,No
+897606,Australia,20379,Friday,No,Yes
+450605,South America,41751,Monday,No,No
+989465,Asia,39546,Monday,Yes,No
+633636,South America,29286,Monday,Yes,No
+138102,Europe,10110,Monday,Yes,No
+174460,North America,17087,Wednesday,No,No
+464778,Asia,28762,Sunday,Yes,Yes
+189930,Europe,22081,Saturday,Yes,No
+631089,Europe,39947,Wednesday,No,Yes
+727438,Asia,14596,Wednesday,No,No
+827627,South America,43019,Friday,Yes,No
+279208,Europe,47003,Friday,No,No
+254697,Australia,23313,Sunday,No,Yes
+313945,Europe,6013,Saturday,Yes,No
+331915,South America,28705,Friday,No,No
+827952,South America,6828,Sunday,No,No
+308124,Australia,12909,Sunday,Yes,No
+537477,Europe,43356,Tuesday,No,Yes
+625830,South America,18109,Saturday,Yes,No
+383821,Asia,7023,Friday,Yes,Yes
+277804,North America,19537,Saturday,No,No
+805703,North America,31661,Wednesday,No,Yes
+139081,North America,43659,Wednesday,No,Yes
+818216,Europe,38848,Saturday,Yes,No
+455249,Australia,42804,Tuesday,No,No
+319930,South America,20379,Tuesday,Yes,Yes
+905497,Asia,32766,Saturday,No,No
+617313,Asia,48590,Friday,No,No
+314532,Europe,7563,Thursday,No,No
+712380,North America,41060,Tuesday,Yes,Yes
+619332,Europe,34197,Monday,No,No
+416837,Australia,8586,Wednesday,No,No
+389106,Australia,21087,Saturday,Yes,No
+128295,South America,28225,Monday,Yes,Yes
+113807,South America,34750,Saturday,No,No
+535564,Australia,11643,Sunday,No,Yes
+257504,Australia,32523,Wednesday,No,No
+338067,Australia,41727,Wednesday,Yes,Yes
+585008,Europe,16005,Tuesday,Yes,No
+792440,Australia,48543,Tuesday,Yes,No
+494540,Asia,5161,Monday,Yes,Yes
+977699,North America,21029,Sunday,No,Yes
+617923,Australia,19226,Saturday,Yes,Yes
+266981,North America,33731,Sunday,Yes,No
+844699,Europe,48922,Wednesday,Yes,No
+119870,North America,49848,Monday,No,No
+303196,Europe,8390,Thursday,No,No
+348683,Asia,10997,Monday,Yes,Yes
+334677,Europe,17693,Friday,Yes,No
+126790,Europe,47092,Monday,No,No
+743162,South America,5541,Sunday,No,No
+911721,Australia,26817,Friday,No,No
+548345,Australia,42861,Friday,No,No
+849074,Asia,18428,Friday,No,No
+587462,Asia,48934,Thursday,No,No
+639773,Australia,15258,Monday,No,Yes
+930914,South America,21044,Sunday,No,No
+186188,Australia,34411,Monday,Yes,No
+629036,South America,10469,Thursday,Yes,No
+842129,Asia,33854,Wednesday,Yes,No
+764795,North America,11256,Tuesday,Yes,Yes
+890141,Asia,15720,Sunday,Yes,Yes
+748249,Asia,38937,Sunday,Yes,Yes
+130355,Europe,38598,Monday,No,Yes
+811131,Europe,6651,Tuesday,No,Yes
+551015,Europe,24194,Saturday,Yes,Yes
+506332,Europe,30051,Saturday,Yes,No
+256542,South America,32386,Thursday,No,Yes
+273416,Australia,14518,Saturday,No,Yes
+405062,North America,21184,Sunday,No,No
+938656,Asia,38787,Saturday,Yes,Yes
+663586,South America,26621,Wednesday,No,No
+601708,North America,15028,Wednesday,Yes,No
+966651,South America,17448,Wednesday,Yes,Yes
+161629,South America,39051,Saturday,No,No
+428184,Asia,35447,Thursday,No,Yes
+592734,Australia,23394,Friday,Yes,Yes
+855195,Europe,39501,Friday,No,No
+390160,Australia,35254,Tuesday,No,No
+648248,Asia,23509,Friday,Yes,Yes
+920023,Asia,19472,Friday,No,No
+313920,Asia,8471,Wednesday,Yes,No
+989765,North America,46796,Wednesday,Yes,Yes
+342804,Australia,35268,Saturday,No,Yes
+476965,Australia,13329,Tuesday,Yes,No
+560857,South America,39865,Monday,Yes,Yes
+922827,South America,33272,Sunday,No,Yes
+604492,South America,47845,Tuesday,No,Yes
+753983,Asia,11397,Tuesday,No,Yes
+515916,Australia,37373,Thursday,Yes,Yes
+921052,Asia,40525,Saturday,Yes,Yes
+858574,North America,29570,Thursday,No,Yes
+228148,South America,23284,Tuesday,Yes,No
+906991,Asia,23994,Tuesday,No,Yes
+586261,Asia,28284,Tuesday,No,No
+455540,North America,22833,Friday,Yes,No
+292714,Europe,30122,Sunday,No,No
+831899,Australia,10017,Sunday,Yes,Yes
+383876,Europe,21370,Thursday,Yes,Yes
+359747,South America,34252,Tuesday,No,No
+715650,Asia,12999,Sunday,Yes,Yes
+523570,North America,27436,Wednesday,No,No
+375987,North America,47963,Sunday,Yes,Yes
+738353,Australia,7096,Saturday,Yes,Yes
+958158,Europe,30279,Saturday,Yes,No
+117640,Australia,48363,Sunday,No,No
+152528,Asia,31201,Wednesday,Yes,No
+924845,Australia,24715,Saturday,No,Yes
+359214,North America,34309,Friday,Yes,No
+939070,North America,20078,Sunday,Yes,Yes
+601108,South America,10105,Friday,No,Yes
+734421,South America,34312,Sunday,No,Yes
+468501,Asia,7839,Monday,No,No
+824226,Europe,8384,Monday,No,No
+250159,Australia,48619,Monday,No,No
+272502,Asia,47821,Saturday,Yes,Yes
+255576,South America,18493,Friday,Yes,Yes
+965291,Australia,22069,Friday,No,No
+986089,South America,12531,Friday,Yes,Yes
+111023,Australia,42051,Wednesday,Yes,Yes
+645735,Europe,12736,Friday,Yes,No
+488043,Asia,12710,Wednesday,No,No
+386103,Australia,6619,Monday,Yes,No
+166203,North America,18975,Monday,Yes,Yes
+260775,North America,28252,Saturday,Yes,Yes
+109337,Australia,20261,Sunday,No,Yes
+670715,Australia,6431,Monday,Yes,Yes
+614723,Australia,14067,Sunday,Yes,Yes
+423673,North America,42481,Sunday,No,No
+464167,North America,32037,Saturday,No,Yes
+446809,Australia,14557,Tuesday,Yes,Yes
+730075,South America,14435,Tuesday,Yes,Yes
+787281,South America,42766,Thursday,No,No
+395451,Europe,5162,Saturday,No,No
+520571,Asia,39742,Thursday,No,No
+227016,South America,24675,Thursday,No,Yes
+891267,North America,13461,Tuesday,No,No
+644447,South America,22015,Saturday,No,No
+597562,Europe,37591,Tuesday,No,No
+802965,Europe,33047,Thursday,Yes,Yes
+483934,Asia,39782,Saturday,No,No
+992048,South America,14833,Thursday,No,Yes
+965184,North America,12896,Friday,Yes,Yes
+417428,North America,37972,Sunday,No,No
+419187,Australia,46800,Saturday,No,Yes
+790907,North America,35508,Saturday,Yes,No
+983439,Asia,10347,Sunday,No,Yes
+182844,Asia,35314,Thursday,Yes,No
+651820,North America,7643,Friday,Yes,No
+265421,North America,45785,Wednesday,Yes,No
+222402,Australia,23681,Sunday,Yes,Yes
+218012,North America,43328,Tuesday,No,No
+538661,Australia,20892,Thursday,Yes,Yes
+498929,Australia,22073,Sunday,Yes,No
+680466,North America,41768,Sunday,No,Yes
+673695,Europe,35682,Saturday,Yes,Yes
+563556,Europe,37262,Tuesday,Yes,No
+675278,Australia,36358,Tuesday,Yes,No
+229473,North America,19289,Tuesday,Yes,No
+578007,Europe,12927,Sunday,No,No
+944573,North America,6171,Wednesday,Yes,No
+517009,North America,16918,Monday,No,Yes
+418714,North America,46903,Thursday,No,No
+326156,South America,44110,Monday,Yes,No
+268964,North America,16929,Sunday,Yes,Yes
+625303,South America,7539,Monday,Yes,No
+161813,Australia,41727,Sunday,Yes,No
+127712,Europe,27669,Monday,No,Yes
+724785,Europe,10432,Tuesday,No,No
+867214,Europe,25644,Friday,No,No
+212816,Europe,23745,Tuesday,Yes,No
+228778,Europe,33228,Tuesday,No,Yes
+686580,Europe,39521,Saturday,Yes,No
+385977,Europe,36703,Saturday,Yes,Yes
+235230,Australia,31928,Monday,Yes,No
+818040,North America,23322,Sunday,Yes,Yes
+906741,Asia,27360,Tuesday,Yes,No
+369114,South America,34055,Monday,No,Yes
+434618,Asia,47891,Saturday,No,Yes
+932972,Asia,21376,Friday,Yes,Yes
+251456,North America,11588,Thursday,No,Yes
+904449,North America,30000,Monday,Yes,Yes
+962312,North America,11304,Friday,Yes,Yes
+205570,Europe,12345,Thursday,Yes,No
+370846,Australia,34300,Wednesday,No,No
+100404,Europe,29259,Monday,Yes,Yes
+803286,Australia,30470,Monday,Yes,Yes
+374907,Australia,28017,Wednesday,No,Yes
+773744,Asia,20352,Wednesday,No,Yes
+815460,Asia,38365,Monday,No,No
+984574,Australia,24446,Wednesday,Yes,Yes
+765220,Australia,7336,Tuesday,Yes,No
+335365,Europe,14879,Thursday,No,No
+442786,Europe,37316,Thursday,Yes,Yes
+150612,Asia,38340,Thursday,No,Yes
+910006,North America,12521,Tuesday,No,No
+909956,Australia,11171,Sunday,Yes,No
+300244,Europe,28481,Wednesday,Yes,Yes
+897348,Asia,23474,Friday,No,Yes
+104809,Europe,49629,Wednesday,No,Yes
+263273,Australia,26008,Monday,No,No
+808690,Australia,6633,Saturday,No,No
+244528,South America,17485,Thursday,Yes,Yes
+606964,North America,48617,Wednesday,No,No
+549613,South America,8648,Friday,No,No
+138765,Asia,18140,Monday,No,Yes
+931538,Europe,22921,Tuesday,Yes,Yes
+416076,Asia,19357,Sunday,Yes,No
+943523,Australia,8137,Tuesday,No,No
+646237,South America,5097,Friday,Yes,Yes
+301152,South America,16407,Monday,Yes,Yes
+399888,South America,35575,Thursday,Yes,Yes
+800903,Asia,17722,Wednesday,No,Yes
+994751,Australia,17924,Monday,No,Yes
+192193,Europe,8750,Sunday,Yes,No
+136187,Europe,32733,Tuesday,No,No
+605950,Asia,13535,Sunday,No,No
+238311,South America,29487,Sunday,Yes,No
+900921,North America,35651,Friday,Yes,Yes
+608153,Asia,9666,Friday,No,Yes
+289089,Asia,21994,Wednesday,Yes,Yes
+686165,Australia,6727,Friday,No,No
+536341,Europe,39622,Friday,No,No
+412066,Asia,15800,Monday,Yes,No
+718362,Asia,42823,Thursday,No,Yes
+787409,South America,48039,Wednesday,No,No
+661419,South America,23708,Monday,Yes,Yes
+740053,North America,17819,Thursday,Yes,Yes
+960395,Australia,14369,Sunday,Yes,Yes
+731172,North America,14283,Monday,No,Yes
+225917,South America,35573,Saturday,Yes,Yes
+910717,Europe,18171,Monday,Yes,Yes
+399770,South America,35933,Friday,Yes,No
+798168,Australia,10774,Thursday,Yes,Yes
+581680,South America,11519,Wednesday,No,Yes
+381342,Australia,15983,Wednesday,No,No
+639542,Australia,35932,Thursday,Yes,Yes
+144238,Australia,35798,Friday,No,No
+101252,Australia,23133,Tuesday,Yes,No
+926196,Australia,19939,Monday,Yes,No
+964141,Europe,5781,Friday,No,Yes
+585450,North America,32624,Saturday,No,Yes
+415826,Asia,11823,Sunday,Yes,No
+421638,North America,23489,Thursday,Yes,Yes
+705605,Australia,44961,Monday,No,Yes
+427359,Europe,34118,Wednesday,Yes,No
+702875,South America,39881,Sunday,No,No
+106949,Europe,21280,Tuesday,Yes,Yes
+863185,Australia,27263,Saturday,Yes,No
+417537,Europe,18565,Wednesday,No,No
+828913,Europe,25354,Thursday,No,No
+762301,Australia,47951,Monday,No,Yes
+650222,Europe,30643,Thursday,No,Yes
+880722,Asia,28648,Sunday,No,Yes
+555102,Asia,46971,Monday,No,No
+437889,Europe,23658,Friday,No,Yes
+576467,South America,26253,Tuesday,Yes,No
+456600,Australia,31390,Friday,Yes,Yes
+415557,Asia,28128,Friday,Yes,Yes
+983671,South America,18489,Thursday,No,No
+404462,Europe,43314,Sunday,No,Yes
+350875,South America,37658,Tuesday,No,No
+563389,North America,11852,Monday,Yes,Yes
+170390,Asia,34450,Monday,No,Yes
+807689,Europe,7551,Saturday,No,No
+353490,Australia,11411,Wednesday,Yes,No
